@@ -27,7 +27,7 @@ An **AI-powered tool** to automate lead generation from **Quora**. Extracts user
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/ai-lead-generation-agent.git
+   git clone (https://github.com/Haseebullahkehar/AI_lead_generation_Agent.git)
    cd ai-lead-generation-agent
    ```
 
